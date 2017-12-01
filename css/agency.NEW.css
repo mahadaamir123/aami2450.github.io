@@ -1,0 +1,130 @@
+header.masthead {
+	background-image: url(file:///Users/mahadaamir/Desktop/startbootstrap-agency-gh-pages/img/2.jpg )
+}
+
+section{
+	padding: 100px 0;
+}
+
+#mainNav .navbar-brand {
+	color: #FFFFFF;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+	font-size: 90%;
+}
+
+#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+	color: #6C7E8F;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
+	color: #6C7E8F;
+}
+
+#mainNav.navbar-shrink {
+	background-color: #34495E;
+}
+
+header.masthead .intro-text .intro-heading {
+	font-size: 65px;
+	margin-bottom: 10px;
+	letter-spacing: 2px;
+	color: #10253A;
+}
+
+header.masthead .intro-text .intro-lead-in {
+	font-size: 20px;
+	font-style: normal;
+	color: #4A6075;
+}
+
+.btn-primary {
+	margin-top: 50px;
+	background-color: #34495E;
+	border-color: #34495E;
+}
+
+.btn-xl {
+	padding: 20px 50px;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+	background-color: #4A6075!important;
+	border-color: #4A6075!important;
+}
+
+
+.timeline>li .timeline-image {
+	background-color: #FFFFFF;
+	border: 5px solid #C6CCD2;
+	color: #4A6075;
+}
+
+.date {
+	font-weight: 200;
+	font-size: 1.2em;
+	margin-bottom: 0em;
+	color: #919DA9;
+}
+
+::selection {
+	background: #4A6075;
+}
+
+#team-info {
+	display: inherit;
+	margin:auto;
+}
+
+.team-member {
+	text-align: center;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+	background-color: #4A6075
+}
+
+
+.element-style {
+	margin: auto;
+}
+
+.col-sm-4 {
+	max-width: 50%;
+}
+
+section h3.section-subheading {
+	margin-bottom: 50px;
+}
+
+.pb-5, .py-5 {
+	opacity: 0.5;
+}
+
+.col-md-3 col-sm-6 {
+	vertical-align: middle;
+}
+
+#sponsors {
+	text-align: center;
+	padding-top: 50px;
+	margin-bottom: 0px;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+	background-color: #6C7E8F;
+	font-weight: 
+}
+
+a {
+	color: #10253A;
+}
+
+a:hover {
+	color: #6C7E8F;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
+	opacity: 0.5;
+}
