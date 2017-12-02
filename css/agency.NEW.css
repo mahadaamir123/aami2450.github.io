@@ -128,3 +128,12 @@ a:hover {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
 	opacity: 0.5;
 }
+
+#mainNav .navbar-toggler {
+	background-color: #6C7E8F;
+	color: #fff;
+}
+
+#mainNav {
+	background-color: #34495E;
+}
